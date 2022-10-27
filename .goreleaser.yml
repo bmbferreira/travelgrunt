@@ -15,6 +15,7 @@ brews:
   - name: travelgrunt
     homepage: 'https://github.com/bmbferreira/travelgrunt'
     description: 'Travel Terragrunt directory tree as a first class passenger!'
+    folder: Formula
     tap:
       owner: bmbferreira
       name: travelgrunt
