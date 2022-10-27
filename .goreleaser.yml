@@ -16,8 +16,8 @@ brews:
     homepage: 'https://github.com/bmbferreira/travelgrunt'
     description: 'Travel Terragrunt directory tree as a first class passenger!'
     tap:
-      owner: bmbferreira
-      name: travelgrunt
+      owner: repo-owner
+      name: homebrew-taps
 archives:
   - name_template: "{{ .ProjectName }}_{{ .Version }}_{{ .Os }}_{{ .Arch }}"
     format: tar.gz
